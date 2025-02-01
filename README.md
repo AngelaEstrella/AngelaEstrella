@@ -18,7 +18,7 @@ I am a **Software Engineering Student** currently in my 5th semester. Passionate
 - **Web Development:** React, HTML, CSS, JavaScript
 - **Databases:** SQL (Basic)
 - **Operating Systems:** Linux
-- **Software Development:** Full-Stack Web Development, Object-Oriented Programming
+- **Software Development:** Full-Stack Web Development
 
 ### :rocket: Projects
 - **Waffle Store Website** - Built an e-commerce website using `React, JavaScript, HTML, CSS, and SQL`.
