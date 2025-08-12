@@ -14,7 +14,7 @@
 I am a **Software Engineering Student** currently in my 5th semester. Passionate about coding, problem-solving, and building real-world applications. I love exploring new technologies and continuously improving my skills.
 
 ### :computer: Tech Stack
-- **Programming Languages:** Python (Basic), C++, Java, JavaScript, SQL
+- **Programming Languages:** Python, C++, Java, JavaScript, SQL
 - **Web Development:** React, HTML, CSS, JavaScript
 - **Databases:** SQL 
 - **Software Development:** Full-Stack Web Development
